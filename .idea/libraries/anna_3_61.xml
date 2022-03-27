@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="anna-3.61">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lib/runtime/anna-3.61.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="leblebi-0.9.0-SNAPSHOT">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lib/runtime/leblebi-0.9.0-SNAPSHOT.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

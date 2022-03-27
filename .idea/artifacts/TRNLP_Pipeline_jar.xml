@@ -1,0 +1,20 @@
+<component name="ArtifactManager">
+  <artifact name="TRNLP-Pipeline:jar">
+    <output-path>$PROJECT_DIR$/out/production/TRPipeline</output-path>
+    <root id="root">
+      <element id="archive" name="TRNLP-Pipeline.jar">
+        <element id="directory" name="META-INF">
+          <element id="file-copy" path="$PROJECT_DIR$/out/production/META-INF/MANIFEST.MF" />
+        </element>
+        <element id="module-output" name="TRNLP-Pipeline" />
+      </element>
+      <element id="library" level="project" name="antlr4-runtime-4.5.3" />
+      <element id="library" level="project" name="cekirdek-1.0.0-jar-with-dependencies" />
+      <element id="library" level="project" name="zemberek-all-0.9.4" />
+      <element id="library" level="project" name="anna-3.61" />
+      <element id="library" level="project" name="guava-19.0" />
+      <element id="library" level="project" name="lang-id-api-1.0-jar-with-dependencies" />
+      <element id="library" level="project" name="leblebi-0.9.0-SNAPSHOT" />
+    </root>
+  </artifact>
+</component>

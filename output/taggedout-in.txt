@@ -1,0 +1,39 @@
+1	30	_	30	_	Det	_	A3sg|Pnon|Nom|none	0	2	_	DETERMINER	_	_
+2	Nisan	_	nisan	_	Noun	_	A3sg|Pnon|Nom	0	15	_	SUBJECT	_	_
+3	1916'da	_	1916'	_	Noun	_	A3sg|Pnon|Loc	0	4	_	MODIFIER	_	_
+4	Petoskey	_	petoskey	_	Noun	_	none	0	5	_	MODIFIER	_	_
+5	Michigan'da	_	michigan	_	Noun	_	A3sg|Pnon|Loc|none	0	15	_	LOCATIVE.ADJUNCT	_	_
+6	doğan	_	Doğan	_	Adj	_	A3sg|Pnon|Nom|PresPart	0	7	_	MODIFIER	_	_
+7	bilim	_	bilim	_	Noun	_	A3sg|Pnon|Nom	0	8	_	CLASSIFIER	_	_
+8	adamı	_	adam	_	Noun	_	A3sg|Pnon|Acc	0	9	_	OBJECT	_	_
+9	Claude	_	claude	_	Noun	_	none	0	10	_	MODIFIER	_	_
+10	Shannon'ın	_	shannon	_	Noun	_	A3sg|Pnon|Gen|none	0	11	_	POSSESSOR	_	_
+11	dalı	_	dal	_	Noun	_	A3sg|P3sg|Nom|Pnon|Acc	0	15	_	OBJECT	_	_
+12	matematik	_	matematik	_	Noun	_	A3sg|Pnon|Nom	0	13	_	OBJECT	_	_
+13	ve	_	ve	_	Conj	_	none	0	14	_	COORDINATION	_	_
+14	elektrik	_	elektrik	_	Noun	_	A3sg|Pnon|Nom	0	15	_	OBJECT	_	_
+15	mühendisliğidir	_	mühendisliğidir	_	Verb	_	Pres|Cop|A3sg	0	16	_	SENTENCE	_	_
+16	.	_	.	_	Punc	_	none	0	0	_	ROOT	_	_
+
+
+1	Matematik	_	matematik	_	Noun	_	Pos|Past|A1pl|A3sg|Pnon|Nom	0	2	_	SUBJECT	_	_
+2	ve	_	ve	_	Conj	_	none	0	4	_	COORDINATION	_	_
+3	elektrik	_	elektrik	_	Noun	_	A3sg|Pnon|Nom	0	4	_	CLASSIFIER	_	_
+4	mühendisi	_	mühendis	_	Noun	_	A3sg|P3sg|Nom	0	5	_	OBJECT	_	_
+5	Claude	_	claude	_	Noun	_	none	0	6	_	MODIFIER	_	_
+6	Shannon	_	shannon	_	Noun	_	A3sg|Pnon|Gen|none	0	14	_	POSSESSOR	_	_
+7	;	_	;	_	Punc	_	none	0	8	_	notconnected	_	_
+8	Petoskey	_	petoskey	_	Noun	_	Pos|Aor|A2sg|none	0	9	_	OBJECT	_	_
+9	,	_	,	_	Punc	_	none	0	10	_	COORDINATION	_	_
+10	Michigan'da	_	michigan	_	Noun	_	A3sg|Pnon|Loc|none	0	11	_	LOCATIVE.ADJUNCT	_	_
+11	30	_	30	_	Conj	_	A3sg|Pnon|Nom|none	0	14	_	COORDINATION	_	_
+12	Nisan	_	nisan	_	Noun	_	A3sg|Pnon|Nom	0	13	_	CLASSIFIER	_	_
+13	1916	_	1916	_	Noun	_	A3pl|P3sg|Nom|none	0	14	_	CLASSIFIER	_	_
+14	tarihinde	_	tarih	_	Noun	_	A3sg|P3sg|Loc	0	18	_	LOCATIVE.ADJUNCT	_	_
+15	doğmuş	_	doğmuş	_	Adj	_	Pos|Narr|A3sg|NarrPart	0	17	_	MODIFIER	_	_
+16	bir	_	bir	_	Det	_	none	0	17	_	DETERMINER	_	_
+17	bilim	_	bilim	_	Noun	_	A3sg|Pnon|Nom	0	18	_	OBJECT	_	_
+18	adamıdır	_	adamı	_	Verb	_	Pres|Cop|A3sg	0	19	_	SENTENCE	_	_
+19	.	_	.	_	Punc	_	none	0	0	_	ROOT	_	_
+
+
